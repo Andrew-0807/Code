@@ -1,0 +1,15 @@
+.image_div{
+    padding-left: 25%;
+    padding-right: 25%;
+    max-height: 50%;
+    min-height: max-content;
+    
+}
+.image{
+    max-height: 50%;
+    
+}
+.carousel_items_new{
+    padding-left: 5%;
+    padding-right: 5%;
+}
