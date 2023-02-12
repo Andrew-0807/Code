@@ -15,6 +15,11 @@
 }
 .card_product{
     padding-right: 1%;
-    padding-left: 1%;
-    width: 10%;
+    border: 0px 0px 0px 0px;
+    width: 15%;
+}
+#font1{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif   ;
+    font-weight: 750;
+    font-size: 18px;
 }
